@@ -12,11 +12,10 @@ You can read my CV in my repo.
 
 ### Connect with me:
 
-[<img align="left" alt="joaofreitas2002 | Twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
-[<img align="left" alt="joaofreitas2002 | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="joaofreitas2002 | Instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="joaofreitas2002 | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
+[<img align="left" alt="joaofreitas2002 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="joaofreitas2002 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 <br />
 <br />
 <br />
