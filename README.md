@@ -42,11 +42,12 @@ Or throught Email: joaofreitas.2002@hotmail.com
 
 ### My Projects:
 
-[Rest API translator][https://jf-translator-api.herokuapp.com/]
++ Rest API [translator][translator API]
 
 <br />
 <br />
 
+[translator API]: https://jf-translator-api.herokuapp.com/
 [instagram]: https://instagram.com/kiikinhoo
 [linkedin]: https://www.linkedin.com/in/joaofreitas2002/
 [upwork]: https://www.upwork.com/freelancers/~010306f6d3f1c716ba?viewMode=1
