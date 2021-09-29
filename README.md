@@ -29,7 +29,7 @@ Or throught Email: joaofreitas.2002@hotmail.com
 <img align="left" alt="JavaScript" width="26px" src="icons/js.svg" />
 <img align="left" alt="Typescript" width="26px" src="icons/typescript.svg" />
 <img align="left" alt="Python" width="26px" src="icons/python.svg" />
-<img align="left" alt="Angular" width="26px" src="icons/angular.svg" />
+<img align="left" alt="Angular" width="26px" src="./icons/angular.svg" />
 <img align="left" alt="Django" width="26px" src="icons/django.jpg" />
 <img align="left" alt="Django Rest Framework" width="26px" src="icons/drf.svg" />
 <img align="left" alt="MySQL" width="26px" src="icons/mysql.svg" />
