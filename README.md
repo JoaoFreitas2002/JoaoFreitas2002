@@ -18,7 +18,6 @@ You can read my CV in my repo.
 
 <br />
 <br />
-<br />
 
 Or throught Email: joaofreitas.2002@hotmail.com
 
