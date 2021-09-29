@@ -23,18 +23,18 @@ Or throught Email: joaofreitas.2002@hotmail.com
 ### Languages and Tools:
 
 <img align="left" alt="Atom" width="26px" src="icons/atom.jpg" />
-<img align="left" alt="HTML5" width="26px" src="icons/html.png" />
+<img align="left" alt="HTML5" width="26px" src="icons/html.svg" />
 <img align="left" alt="CSS3" width="26px" src="icons/css.svg" />
-<img align="left" alt="Sass" width="26px" src="icons/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="icons/js.png" />
+<img align="left" alt="Sass" width="26px" src="icons/sass.svg" />
+<img align="left" alt="JavaScript" width="26px" src="icons/js.svg" />
 <img align="left" alt="Typescript" width="26px" src="icons/typescript.svg" />
-<img align="left" alt="Python" width="26px" src="icons/python.png" />
-<img align="left" alt="Angular" width="26px" src="icons/angular.png" />
+<img align="left" alt="Python" width="26px" src="icons/python.svg" />
+<img align="left" alt="Angular" width="26px" src="icons/angular.svg" />
 <img align="left" alt="Django" width="26px" src="icons/django.jpg" />
-<img align="left" alt="Django Rest Framework" width="26px" src="icons/drf.png" />
+<img align="left" alt="Django Rest Framework" width="26px" src="icons/drf.svg" />
 <img align="left" alt="MySQL" width="26px" src="icons/mysql.svg" />
-<img align="left" alt="PostGreSQL" width="26px" src="icons/postgresql.png" />
-<img align="left" alt="Git" width="26px" src="icons/git.png" />
+<img align="left" alt="PostGreSQL" width="26px" src="icons/postgresql.svg" />
+<img align="left" alt="Git" width="26px" src="icons/git.svg" />
 
 <br />
 <br />
