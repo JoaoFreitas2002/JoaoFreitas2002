@@ -23,18 +23,18 @@ Or throught Email: joaofreitas.2002@hotmail.com
 ### Languages and Tools:
 
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
-<img align="left" alt="HTML5" width="26px" src="icons/html.svg" />
-<img align="left" alt="CSS3" width="26px" src="icons/css.svg" />
-<img align="left" alt="Sass" width="26px" src="icons/sass.svg" />
-<img align="left" alt="JavaScript" width="26px" src="icons/js.svg" />
-<img align="left" alt="Typescript" width="26px" src="icons/typescript.svg" />
-<img align="left" alt="Python" width="26px" src="icons/python.svg" />
-<img align="left" alt="Angular" width="26px" src="icons/angular.svg" />
-<img align="left" alt="Django" width="26px" src="icons/django.jpg" />
-<img align="left" alt="Django Rest Framework" width="26px" src="icons/drf.svg" />
-<img align="left" alt="MySQL" width="26px" src="icons/mysql.svg" />
-<img align="left" alt="PostGreSQL" width="26px" src="icons/postgresql.svg" />
-<img align="left" alt="Git" width="26px" src="icons/git.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+	<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="Django Rest Framework" width="26px" src="https://www.django-rest-framework.org/img/logo.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="PostGreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
 <br />
