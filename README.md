@@ -40,13 +40,11 @@ Or throught Email: joaofreitas.2002@hotmail.com
 
 <br />
 <br />
+<br />
 
 ### My Projects:
 
 + Rest API [translator][translator API]
-
-<br />
-<br />
 
 [translator API]: https://jf-translator-api.herokuapp.com/
 [instagram]: https://instagram.com/kiikinhoo
