@@ -16,6 +16,8 @@ You can read my CV in my repo.
 [<img align="left" alt="joaofreitas2002 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="joaofreitas2002 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
 Or throught Email: joaofreitas.2002@hotmail.com
 
 <br />
