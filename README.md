@@ -1,37 +1,40 @@
-### Hi there, I'm João - aka João 👋
+### Hi there, I'm João 👋
 
 ## I'm a Student, Developer, and a ambitious person!!
 
-- I'm very creative and passionate about coding
-- I have big goals, no dreams and I work hard to achieve them
-- Fun fact: I love art and I find the art in everything
+- I'm looking for freelancer jobs in the area of Web Development
+- I love programming
+- I'm very creative and extremely focus on my goals
+- I'm a self-taught person
+- Fun fact: I love art and I can find the art in everything
+
+You can read my CV in my repo.
 
 ### Connect with me:
 
 [<img align="left" alt="joaofreitas2002 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
 [<img align="left" alt="joaofreitas2002 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="joaofreitas2002 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="joaofreitas2002 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+<img align="left" alt="joaofreitas2002 | Email" width="22px" src="icons/envelope.svg" />
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Scss" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scss/scss.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Atom" width="26px" src="icons/atom-solid.svg" />
+<img align="left" alt="HTML5" width="26px" src="icons/html5-brands.svg" />
+<img align="left" alt="CSS3" width="26px" src="icons/css3-alt-brands.svg" />
+<img align="left" alt="Sass" width="26px" src="icons/sass-brands.svg" />
+<img align="left" alt="JavaScript" width="26px" src="icons/js-brands.svg" />
+<img align="left" alt="Typescript" width="26px" src="icons/typescript.svg" />
+<img align="left" alt="Python" width="26px" src="icons/python-brands.svg" />
+<img align="left" alt="Angular" width="26px" src="icons/angular-brands.svg" />
+<img align="left" alt="MySQL" width="26px" src="icons/mysql.svg" />
+<img align="left" alt="Git" width="26px" src="icons/git-alt-brands.svg" />
 
 <br />
 <br />
 
-[instagram]: https://instagram.com/kiikinhoo
+<!-- [instagram]: https://instagram.com/kiikinhoo -->
 [linkedin]: https://www.linkedin.com/in/joaofreitas2002/
 [upwork]: https://www.upwork.com/freelancers/~010306f6d3f1c716ba?viewMode=1
