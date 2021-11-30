@@ -37,7 +37,7 @@ Or throught Email: joaofreitas.2002@hotmail.com
 <br />
 <br />
 
-### Web Tools:
+### Frameworks:
 
 <img align="left" alt="Angular" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Django" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
