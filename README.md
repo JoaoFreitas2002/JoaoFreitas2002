@@ -2,11 +2,12 @@
 
 ## I'm a Student, Developer, and a ambitious person!!
 
-- I'm looking for freelancer jobs in the area of Web Development
 - I love programming
 - I'm very creative and extremely focus on my goals
 - I'm a self-taught person
 - Fun fact: I love art <3
+
+"Programming isn't about what you know; it's about what you can figure out.” - Chris Pine.
 
 You can read my CV in my repo.
 
@@ -45,8 +46,6 @@ You can read my CV in my repo.
 ### Extras Links:
 
 Stackoverflow: [Stackoverflow]
-
-<br />
 
 
 [Stackoverflow]: https://stackoverflow.com/users/13975508/jo%c3%a3o-freitas
