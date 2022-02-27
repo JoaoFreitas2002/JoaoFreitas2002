@@ -1,6 +1,6 @@
 ### Hi there, I'm João 👋
 
-## I'm a Student, Developer, and a ambitious person!!
+## I'm a Student, Developer, and an ambitious person!!
 
 - I love programming
 - I'm very creative and extremely focus on my goals
