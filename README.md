@@ -9,7 +9,7 @@
 
 "Programming isn't about what you know; it's about what you can figure out.” - Chris Pine.
 
-You can know me better and read my CV in my [website].
+<!-- You can know me better and read my CV in my [website]. -->
 
 ### Connect with me:
 
