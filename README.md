@@ -13,7 +13,7 @@ You can know me better and read my CV in my [website].
 
 ### Connect with me:
 
-[<img align="left" alt="joaofreitas2002 | Portfolio" width="30px" src="[https://joaoffreitas.com/wp-content/uploads/2022/02/cropped-my-website-logo.png](https://i0.wp.com/joaoffreitas.com/wp-content/uploads/2022/10/logo-icon-black-1.png?fit=50%2C50&ssl=1)" />][website]
+[<img align="left" alt="joaofreitas2002 | Portfolio" width="30px" src="https://joaoffreitas.com/wp-content/uploads/2022/10/logo-icon-black-1.png" />][website]
 [<img align="left" alt="joaofreitas2002 | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
 [<img align="left" alt="joaofreitas2002 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="joaofreitas2002 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
