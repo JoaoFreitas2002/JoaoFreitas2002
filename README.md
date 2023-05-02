@@ -16,7 +16,7 @@ You can know me better and read my CV in my [website].
 [<img align="left" alt="joaofreitas2002 | Portfolio" width="30px" src="https://joaoffreitas.com/wp-content/uploads/2022/10/logo-icon-black-1.png" />][website]
 <!-- [<img align="left" alt="joaofreitas2002 | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork] -->
 [<img align="left" alt="joaofreitas2002 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="joaofreitas2002 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="joaoffreitas_ | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
@@ -36,6 +36,6 @@ You can know me better and read my CV in my [website].
 <br />
 
 [website]: https://joaoffreitas.com
-[instagram]: https://instagram.com/kiikinhoo
+[instagram]: https://instagram.com/joaoffreitas_
 [linkedin]: https://www.linkedin.com/in/joaofreitas2002/
 [upwork]: https://www.upwork.com/freelancers/~010306f6d3f1c716ba?viewMode=1
