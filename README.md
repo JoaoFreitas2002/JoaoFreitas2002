@@ -1,15 +1,15 @@
 ### Hi there, I'm João 👋
 
-## I'm a Student, Developer, and an ambitious person!!
+## I'm a Developer and an ambitious person!!
 
 - I love programming
-- I'm very creative and extremely focus on my goals
+- I'm very creative and extremely focused on my goals
 - I'm a self-taught person
-- Fun fact: I love art <3
+- Fun fact: I love music <3
 
 "Programming isn't about what you know; it's about what you can figure out.” - Chris Pine.
 
-You can know me better and read my CV in my [website].
+You can know me better and read my CV on my [website].
 
 ### Connect with me:
 
