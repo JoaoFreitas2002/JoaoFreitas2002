@@ -5,7 +5,6 @@
 - I love programming
 - I'm very creative and extremely focused on my goals
 - I'm a self-taught person
-- Fun fact: I love music <3
 
 "Programming isn't about what you know; it's about what you can figure out.” - Chris Pine.
 
